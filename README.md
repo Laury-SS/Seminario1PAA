@@ -1,8 +1,9 @@
 # Seminario1PAA
 Código seminário 1 PAA
 
+
 # Link apresentação seminário no youtube:
-LINK
+[LINK](https://youtu.be/6fLUU3uK5qM)
 
 
 link github
