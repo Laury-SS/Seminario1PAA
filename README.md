@@ -7,10 +7,10 @@ O vídeo da apresentação do seminário está disponível no YouTube:
 👉 [Assistir no YouTube](https://youtu.be/6fLUU3uK5qM)  
 
 ## 📑 Conteúdo do Repositório  
-- **Slides**: arquivo PDF utilizado no seminário.  
+- **Slides**: [`ProblemadoCarteiroChinês_Lauryane.pdf`](ProblemadoCarteiroChinês_Lauryane.pdf)  
 - **Código-fonte**: implementação do Problema do Carteiro Chinês em **Python**.  
 - **Dados**: arquivo `graph3.input` contendo a instância do problema utilizada no estudo de caso.  
-- **Imagens**: representação visual do grafo usado no exemplo e da solução final.  
+- **Imagens**: representação visual do grafo usado no exemplo e da solução final.
 
 ## 📌 Descrição do Problema  
 O Problema do Carteiro Chinês consiste em encontrar o **menor percurso fechado** que percorra todas as arestas de um grafo pelo menos uma vez.  
