@@ -40,7 +40,7 @@ Arquivo: `graph3.input`
 
 ## 🖼️ Visualização  
 ### Grafo usado no estudo de caso  
-![Grafo original](images/grafo_inicial.png)  
+![Grafo original](grafo_inicial.png)  
 
 ### Solução final com a rota  
-![Solução final](images/grafo_solucao.png)  
+![Solução final](grafo_solucao.png)  
